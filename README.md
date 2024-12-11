@@ -4,8 +4,8 @@ Este repositorio contiene los entregables correspondientes a la materia de Proce
 ## Índice
 - TP 1: Clasificación de documentos y similaridad entre documentos
 - TP 2: Vectores y similitudes con Gensim
-- TP 3: Modelo de lenguaje con LSTM
-- TP 4: Chatbot utilizando FastText
+- TP 3: Modelo de lenguaje
+- TP 4: Chatbot de preguntas y respuestas
 
 ### TP 1: Clasificación de documentos y similaridad entre documentos
 Descripción:
@@ -33,7 +33,7 @@ Pasos realizados:
 Ubicación:
 El código y la notebook correspondiente se encuentran en la carpeta TP 2.
 
-### TP 3: Modelo de lenguaje con LSTM
+### TP 3: Modelo de lenguaje
 Descripción:
 En este trabajo práctico se entrenó un modelo de lenguaje de tipo many-to-many utilizando LSTM para predecir la siguiente palabra en una secuencia. El corpus utilizado fue el libro Emma de Jane Austen. Posteriormente, se generaron secuencias de texto utilizando el modelo entrenado.
 
@@ -45,7 +45,7 @@ Pasos realizados:
 Ubicación:
 El código y la notebook correspondiente se encuentran en la carpeta TP 3.
 
-### TP 4: Chatbot utilizando FastText
+### TP 4: Chatbot de preguntas y respuestas
 Descripción:
 En este trabajo práctico se construyó un chatbot que responde preguntas del usuario utilizando embeddings de FastText. El modelo se entrenó con un conjunto de preguntas y respuestas, y luego se testeó su capacidad de respuesta.
 
