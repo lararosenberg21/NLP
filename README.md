@@ -9,7 +9,7 @@ Este repositorio contiene los entregables correspondientes a la materia de Proce
 
 ### TP 1: Clasificación de documentos y similaridad entre documentos
 Descripción:
-En este trabajo práctico, se trabajó con una serie de documentos clasificados según su tipo. El objetivo fue explorar y medir la similaridad del coseno entre los documentos y entrenar modelos de clasificación utilizando el algoritmo Naïve Bayes. Se probaron dos variantes de Naïve Bayes: MultinomialNB y ComplementNB. Además, se generó una matriz término-documento (TDM) y se estudió la similaridad entre palabras.
+En este trabajo práctico, se trabajó con una serie de documentos clasificados según su tipo. El objetivo fue explorar y medir la similaridad del coseno entre los documentos y entrenar modelos de clasificación utilizando el algoritmo Naive Bayes. Se probaron dos variantes de Naïve Bayes: MultinomialNB y ComplementNB. Además, se generó una matriz término-documento (TDM) y se estudió la similaridad entre palabras.
 
 Pasos realizados:
 1. Vectorización de los documentos con CountVectorizer
