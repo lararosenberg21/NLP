@@ -14,7 +14,7 @@ En este trabajo práctico, se trabajó con una serie de documentos clasificados 
 Pasos realizados:
 1. Vectorización de los documentos con CountVectorizer
 2. Similaridad del coseno y análisis de resultados.
-3. Modelos de clasificación: se entrenaron y evaluaron modelos de clasificación utilizando Naïve Bayes Multinomial y Naïve Bayes Complementario (ComplementNB), utilizando el CountVectorizer y el TF-IDF y se compararon los resultados de los distintos modelos con la métrica de F1-score.
+3. Modelos de clasificación: se entrenaron y evaluaron modelos de clasificación utilizando Naive Bayes Multinomial y Naive Bayes Complementario (ComplementNB), utilizando el CountVectorizer y el TF-IDF y se compararon los resultados de los distintos modelos con la métrica de F1-score.
 4. Transposición de la Matriz Término-Documento (TDM) y medición de similaridad de palabras.
 
 Ubicación:
